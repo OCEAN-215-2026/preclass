@@ -1,0 +1,24 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0a265a35-c723-48c9-a779-a0d1a39994ee
+  title: OCEAN 215 Preclass Readings
+  description: Preclass readings for UW OCEAN 215, Autumn 2026
+  toc:
+    - file: intro.md
+      title: Welcome
+    - file: week_02/wk02_intro.md
+      children:
+        - file: week_02/numerics_and_strings.ipynb
+        - file: week_02/boolean_and_logic.ipynb
+        - file: week_02/python_list.ipynb 
+        - file: week_02/wk02_glossary.md
+  # keywords: []
+  # authors: []
+  github: https://github.com/OCEAN-215-2026/preclass
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: ocean_python.ico
+    logo: ocean_python_banner.png
