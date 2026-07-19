@@ -60,7 +60,7 @@ In a markdown cell certain characters have special meaning. Some useful examples
 + To create a list, start the line with a `+`, followed by a space
 + To set a block of texts to boldface, surround the block with a pair of `**`
 + To italicize a block of texts, surround the block with a pair of `_`
-+ To set a block of text in monospace, surround the block with a pair of `` ` ``
++ To set a block of text in monospace, surround the block with a pair of `` ` `` (the **backtick** character, not the quote)
 + To create headings, start the line with a sequence of `#`, followed by a space (the more `#` the lower the heading in the hierarchy)
 
 ## Comments within code cells

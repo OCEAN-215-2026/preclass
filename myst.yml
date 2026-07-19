@@ -12,7 +12,15 @@ project:
         - file: week_02/numerics_and_strings.ipynb
         - file: week_02/boolean_and_logic.ipynb
         - file: week_02/python_list.ipynb 
+        - file: week_02/cell_output_and_print.ipynb
         - file: week_02/wk02_glossary.md
+    - file: week_03/wk03_intro.md
+      children:
+        - file: week_03/control_flow.ipynb
+        - file: week_03/more_control_flow.ipynb
+        - file: week_03/debugging.ipynb
+        - file: week_03/etiquette.ipynb
+        - file: week_03/wk03_glossary.ipynb
   # keywords: []
   # authors: []
   github: https://github.com/OCEAN-215-2026/preclass
