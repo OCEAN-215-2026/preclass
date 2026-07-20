@@ -20,7 +20,15 @@ project:
         - file: week_03/more_control_flow.ipynb
         - file: week_03/debugging.ipynb
         - file: week_03/etiquette.ipynb
-        - file: week_03/wk03_glossary.ipynb
+        - file: week_03/wk03_glossary.md
+    - file: week_04/wk04_intro.md
+      children:
+        - file: week_04/numpy_overview.ipynb
+        - file: week_04/np_creation_indexing.ipynb
+        - file: week_04/np_mapping_reduction.ipynb
+        - file: week_04/statistics.ipynb
+        - file: week_04/reading_documentations.ipynb
+        - file: week_04/wk04_glossary.md
   # keywords: []
   # authors: []
   github: https://github.com/OCEAN-215-2026/preclass
