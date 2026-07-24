@@ -37,6 +37,14 @@ project:
         - file: week_05/matplotlib_details.ipynb
         - file: week_05/plot_advice.ipynb
         - file: week_05/wk05_glossary.md
+    - file: week_06/wk06_intro.md
+      children:
+        - file: week_06/file_path.ipynb
+        - file: week_06/pandas_and_data.ipynb
+        - file: week_06/pandas_operations.ipynb
+        - file: week_06/pandas_datetime.ipynb
+        - file: week_06/matplotlib_datetime.ipynb
+        - file: week_06/wk06_glossary.md
   # keywords: []
   # authors: []
   github: https://github.com/OCEAN-215-2026/preclass

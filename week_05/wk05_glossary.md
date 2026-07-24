@@ -14,7 +14,7 @@ In addition, you may find the cheatsheets provided by matplotlib ([https://matpl
 
 ## Numpy attributes, functions and methods
 
-## Numpy array attributes
+### Numpy array attributes
 
 + `<ndarray>.size`: the size (number of entries) of a numpy array
 + `<ndarray>.shape`: the shape of a numpy array
@@ -56,7 +56,7 @@ In addition, you may find the cheatsheets provided by matplotlib ([https://matpl
 + `<Axes>.errorbar()`: create an error bar plot on an Axes instance
 + `<Axes>.bar()`: create a bar plot on an Axes instance
 + `<Axes>.hist()`: create a histogram on an Axes instance
-+ 
+ 
 ### Axes and titles
 
 + `<Axes>.set_title()`: set the title of the figure, for an Axes instance
