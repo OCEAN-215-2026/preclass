@@ -7,7 +7,7 @@
    viewBox="0 0 211.66668 52.916668"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    sodipodi:docname="immutable_int.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.5233586"
-     inkscape:cx="470.99876"
-     inkscape:cy="158.85951"
+     inkscape:cx="471.32697"
+     inkscape:cy="159.18773"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -60,6 +60,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-5.3502088,-6.8932057)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.706001;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="211.54736"
+       height="52.626312"
+       x="5.5238929"
+       y="7.0668898" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.705556;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.11667, 2.11667;stroke-dashoffset:0"
        d="m 53.055339,9.2109959 -10e-7,47.0374871"

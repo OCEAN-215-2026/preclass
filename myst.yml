@@ -29,6 +29,14 @@ project:
         - file: week_04/statistics.ipynb
         - file: week_04/reading_documentations.ipynb
         - file: week_04/wk04_glossary.md
+    - file: week_05/wk05_intro.md
+      children:
+        - file: week_05/np_multidimensional.ipynb
+        - file: week_05/np_multi_functions.ipynb
+        - file: week_05/intro_matplotlib.ipynb
+        - file: week_05/matplotlib_details.ipynb
+        - file: week_05/plot_advice.ipynb
+        - file: week_05/wk05_glossary.md
   # keywords: []
   # authors: []
   github: https://github.com/OCEAN-215-2026/preclass
