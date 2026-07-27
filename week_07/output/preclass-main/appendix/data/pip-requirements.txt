@@ -1,4 +1,0 @@
-# web download APIs
-rda-apps-clients
-pyncei
-pycmap
