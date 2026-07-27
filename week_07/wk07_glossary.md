@@ -60,3 +60,9 @@ A quick guide of color maps from the `cmocean` package can be found at [https://
 ## Color maps from the cmocean module
 
 + `cmocean.cm.thermal`, etc.: color maps for oceanographic data
+
+## Internet download functions
+
++ `urlretrive()` (from `urllib.request`): retrieve a file from the internet to the local file system.
++ `gdown.download()`: download a public Google Drive file to the local file system
++ `zipfile.Zipfile()`, `<Zipfile>.extractall()`: extract the content of a zip file.

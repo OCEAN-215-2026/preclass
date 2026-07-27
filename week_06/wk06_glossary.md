@@ -6,12 +6,6 @@ The official pandas documentation page is at [https://pandas.pydata.org/docs/ref
 
 The documentation of `matplolib.dates` module is at [https://matplotlib.org/stable/api/dates_api.html](https://matplotlib.org/stable/api/dates_api.html)
 
-## Internet download functions
-
-+ `urlretrive()` (from `urllib.request`): retrieve a file from the internet to the local file system.
-+ `gdown.download()`: download a public Google Drive file to the local file system
-+ `zipfile.Zipfile()`, `<Zipfile>.extractall()`: extract the content of a zip file.
-
 ## Pandas functions
 
 + `pd.DataFrame()`: create a new DataFrame manually
