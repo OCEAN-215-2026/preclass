@@ -45,6 +45,13 @@ project:
         - file: week_06/pandas_datetime.ipynb
         - file: week_06/matplotlib_datetime.ipynb
         - file: week_06/wk06_glossary.md
+    - file: week_07/wk07_intro.md
+      children:
+        - file: week_07/xarray_and_data.ipynb
+        - file: week_07/xarray_operations.ipynb
+        - file: week_07/matplotlib_matrix.ipynb
+        - file: week_07/internet_files.ipynb
+        - file: week_07/wk07_glossary.md
   # keywords: []
   # authors: []
   github: https://github.com/OCEAN-215-2026/preclass

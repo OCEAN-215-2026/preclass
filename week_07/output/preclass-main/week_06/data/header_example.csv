@@ -1,0 +1,8 @@
+# Two lines of metadata followed by an empty line
+# In this file -999 is the code for missing values
+
+A,B,C,D
+m,g,cm,L
+1,3.2,4,2
+2,7.9,7,5
+2,-999,5,3

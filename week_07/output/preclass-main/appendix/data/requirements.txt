@@ -1,0 +1,54 @@
+python==3.12.*
+# system utilities
+pipdeptree
+# core numeric packages
+numpy<2
+scipy
+matplotlib
+pandas
+seaborn
+xarray
+# secondary numeric packages
+scikit-learn
+joblib
+networkx
+# secondary image processing packages
+imageio
+# secondary geographical data packages
+folium
+geopandas
+fiona
+ipyleaflet
+# secondary visualization packages
+altair
+bokeh
+plotly
+# file formats
+hdf4
+hdf5
+h5py
+netcdf4
+openpyxl
+# web download APIs
+html5lib
+gdown
+earthaccess
+sciencebasepy
+ndbc-api
+ooipy
+cdsapi
+argopy
+owslib
+# ocean specific
+cartopy
+cmocean
+# jupyter
+ipykernel
+ipympl
+jupyter-lsp
+jupyterlab
+jupyterlab-git
+notebook
+# grading
+otter-grader
+

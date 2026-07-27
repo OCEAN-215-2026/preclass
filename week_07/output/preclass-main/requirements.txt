@@ -1,0 +1,32 @@
+jupyter-book
+# core numeric packages
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+xarray
+# secondary numeric packages
+imageio
+scikit-learn
+scikit-image
+joblib
+networkx
+# secondary geographical data packages
+folium
+geopandas
+fiona
+ipyleaflet
+# secondary visualization packages
+altair
+bokeh
+plotly
+# file formats
+hdf4
+hdf5
+h5py
+netcdf4
+openpyxl
+# ocean specific
+cartopy
+cmocean

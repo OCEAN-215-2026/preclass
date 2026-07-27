@@ -1,0 +1,7 @@
+.cell_output .output.traceback pre {
+  background-color: #fdd;
+}
+
+html[data-theme="dark"] .cell_output .output.traceback pre {
+  background-color: #900;
+}
