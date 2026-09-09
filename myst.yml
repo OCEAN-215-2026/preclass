@@ -52,6 +52,13 @@ project:
         - file: week_07/matplotlib_matrix.ipynb
         - file: week_07/internet_files.ipynb
         - file: week_07/wk07_glossary.md
+    - file: week_08/wk08_intro.md
+      children:
+        - file: week_08/basic_cartopy.ipynb
+        - file: week_08/more_cartopy.ipynb
+        - file: week_08/linregress.ipynb
+        - file: week_08/wk08_glossary.md
+
   # keywords: []
   # authors: []
   github: https://github.com/OCEAN-215-2026/preclass
