@@ -1,0 +1,7 @@
+# system utilities
+flake8
+pipdeptree
+# web download APIs
+rda-apps-clients
+pyncei
+pycmap
