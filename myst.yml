@@ -60,17 +60,17 @@ project:
         - file: week_08/wk08_glossary.md
     - file: week_09/wk09_intro.md
       children:
-        - file: week_09/1d_interpolation.ipynb
-        - file: week_09/2d_interpolation.ipynb
         - file: week_09/grouped_summarization.ipynb
-        - file: week_09/multi_panel_figure.ipynb
         - file: week_09/wk09_glossary.md
     - file: week_10/wk10_intro.md
       children:
+        - file: week_10/1d_interpolation.ipynb
+        - file: week_10/2d_interpolation.ipynb
         - file: week_10/writing_functions.ipynb
         - file: week_10/wk10_glossary.md
     - file: appendix/appendix_intro.md
       children:
+        - file: appendix/multi_panel_figure.ipynb
         - file: appendix/local_python.md
         - file: appendix/additional_packages.md
         - file: appendix/database_apis.ipynb
