@@ -5,3 +5,5 @@ pipdeptree
 rda-apps-clients
 pyncei
 pycmap
+# version conflicts fixes
+erddapy==3.2.1
