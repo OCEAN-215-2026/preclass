@@ -2,7 +2,7 @@
 
 ## Online resources
 
-Documentation for cartopy can be found at [https://scitools.org.uk/cartopy/docs/latest/reference/index.html](https://scitools.org.uk/cartopy/docs/latest/reference/index.html). In particular, the collection of map projections supported by cartopy can be found at [https://scitools.org.uk/cartopy/docs/latest/reference/projections.html](https://scitools.org.uk/cartopy/docs/latest/reference/projections.html).
+Documentation for cartopy can be found at [https://cartopy.readthedocs.io/stable/](https://cartopy.readthedocs.io/stable/). In particular, the collection of map projections supported by cartopy can be found at [https://cartopy.readthedocs.io/stable/reference/projections.html](https://cartopy.readthedocs.io/stable/reference/projections.html).
 
 ArcGIS provides some useful information about the map projection *it* supports. Their landing page is at [https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/list-of-supported-map-projections.htm](https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/list-of-supported-map-projections.htm). Note that the name of the same projection may differ between cartopy and ArcGIS.
 
